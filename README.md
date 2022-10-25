@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Gordon "East Monster" Yuan! 👋 
 
-<!--
-**EastMonster/EastMonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Introduction
+- 🏫 I'm a sophomore majoring in software engineering!
+- 📚 I have little knowledge of **C/C++**, **Java** and **Python**!
+- ☢️ I've been learning **Rust** slowly, and I believe that it will become popular in the future!
+- 🤧 I have little engineering and scientific research experience. I want to try more things!
 
-Here are some ideas to get you started:
+#### Blog
+- Github Page (Chinese): [https://eastmonster.github.io](https://eastmonster.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Social
+- Twitter (English): [@East_Monster](https://twitter.com/East_Monster)
+- Bilibili (Chinese): [@仆ス_Official](https://space.bilibili.com/1165344293)
+
+#### Contact
+- Email: eastmonsterbronze@gmail.com
